@@ -48,7 +48,7 @@
             [...]
           </systemPropertyVariables>
           <includes>
-         <include>**/MyBasketTests.java</include>
+         <include>**/ZooplaTests.java</include>
          </includes>
         </configuration>
       </plugin>

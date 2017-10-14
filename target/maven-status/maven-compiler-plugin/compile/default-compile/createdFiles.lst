@@ -1,3 +1,5 @@
 myproject/myproject/WebDriverInit.class
 myproject/myproject/Utils.class
 myproject/myproject/pages/HomePage.class
+myproject/myproject/pages/RentProperty.class
+myproject/myproject/pages/SearchResults.class
