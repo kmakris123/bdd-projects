@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.MyBasketTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.415 sec <<< FAILURE! - in com.tests.MyBasketTests
+initializationError(com.tests.MyBasketTests)  Time elapsed: 0.008 sec  <<< ERROR!
+java.lang.IllegalArgumentException: Not a file or directory: /Users/kostasmakris/Documents/workspace/bdd-projects/src/test/java/com/tests/my_basket.feature
+
